@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="net.shopnc.shop.ui.type.GoodsDetailBodyFragment">
+
+    <WebView
+        android:id="@+id/wvGoodsBody"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>
+<!-- From: file:/C:/Users/Administrator/Desktop/trunk/app/src/main/res/layout/fragment_goods_detail_body.xml -->

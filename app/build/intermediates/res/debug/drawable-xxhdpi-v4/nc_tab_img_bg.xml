@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_activated="true" android:drawable="@drawable/store_r" />
+    <item android:state_activated="false" android:drawable="@drawable/store_h" />
+</selector><!-- From: file:/C:/Users/Administrator/Desktop/trunk/app/src/main/res/drawable-xxhdpi/nc_tab_img_bg.xml -->

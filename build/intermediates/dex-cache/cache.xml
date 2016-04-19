@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48-f3716ab9e45d46f3c837b85ca176cae3806578cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-648ec5be6b10b8000ed45dbfc937713a23d29ce1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\android-viewbadger.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\android-viewbadger-8b09a5e76f5b125b9316febd2675133e9c9f7e3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\glide-3.6.1-b5c689c4f4d1b715be3011e44d24b19454da7d1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48-313eac2352ccd88e1c2f84ceb3dc3a80a92fac70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\SocialSDK_sms.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6f2001935ba0bd2590ba55da54139bb855a75c00">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\SocialSDK_sms-3bc948413a37190fa0d11916e52859e7f01e6765.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\locSDK_5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="389047997db28fcb848dc4247c5590a08b7ff769">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\locSDK_5.2-4e42bcf61d9cc9414e10d02376c50b6c4364b801.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\gson-2.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\gson-2.2.1-30acd21896d7abaef258d9d594e3d60a10611503.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\weiboSDKCore_3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c0bfcddc15de1e8a90ff166da0b9abe011346af">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\weiboSDKCore_3.1.2-cbeab5b7c8aa1a77c8e9b7b2d759d85e7a43663b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02ad76d011fe5421fd5a82d7cbca60a435536750">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\umeng_social_sdk-a12891168740c2fde95af4771b4b59cd7644c911.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.5.0\bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a\okio-1.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\okio-1.5.0-d19a14371397c6eca4ede01fef02db4647f737c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\android-support-v4-a7dae3d46eff1e122d71bb2d57c05838241c33f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\barcode_core.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cba0b93b0072105d808ef7a00a107a4eb97874e7">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\barcode_core-57d3f42f56659a64fcf004514c50e71677ca240c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02ad76d011fe5421fd5a82d7cbca60a435536750">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\umeng_social_sdk-a12891168740c2fde95af4771b4b59cd7644c911.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\okhttputils.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9bd1bb5ea9ee043fb215b54551f9fa86e56c415e">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\okhttputils-66e0e89e67c6f32bbe6d32dfe9663b55fa1482d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1-751d69eaf7dfa236214a483fc6d98dd7b00e21c2.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk-window\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-ecd829fc3e2debeb95a0e43a05674eae15887e3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="115a743cc0da01ca8dee6e2f2e5d901ea68200bd">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2-53df1f36fecd6ebcf61f37690c76d9b25c1d6a3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\classes-1aac4338b4abf355a19bacbf377a6fef7049d811.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\open_sdk_r5509.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="538ea8fb21ea76e8cb424598ac38127cb3344d79">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\open_sdk_r5509-a8cf85e9bc352d408bed92ba806d48ece96a2c09.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2-bcec1f17a2e178fa87df1657c1c17fbdecc9bebe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2-bcec1f17a2e178fa87df1657c1c17fbdecc9bebe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\WebSocket.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6b17ba6ab787805a04640e7a80dece959634bf2b">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\WebSocket-4f2cfb719f221bbb64e8be361b1a4275680dd308.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\glide-3.6.1-b5c689c4f4d1b715be3011e44d24b19454da7d1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-07ba597dcf83570d3bdad961d988047a6dc0bc05.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\gson-2.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\gson-2.2.1-30acd21896d7abaef258d9d594e3d60a10611503.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\android-viewbadger.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\android-viewbadger-8b09a5e76f5b125b9316febd2675133e9c9f7e3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\baidumapapi_v3_5_0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba79500bb64218f10b5fd0d5ea54503b2bf6b3bb">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_5_0-b8ad7d413a49519686e3314e98bbd5a3daa4cd2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\commons-lang3-3.4-52c90650d7bb867aa207ec002586e8ac4b0b4ee4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3-a27dc50e4ad50508bbf04793b1484aab0343cc4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1-751d69eaf7dfa236214a483fc6d98dd7b00e21c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\socketio.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d574c3c4139a80890b722e017b5c3c80b6fa2706">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\socketio-2dfde4f22448367fe7ef9689b7ac457dc3e18135.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="291877a10fd2a93a6fb8f3e7733fc7ba4d3acea0">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\SocialSDK_Sina-637f80d3f568850e7af091d4e4ccbb1f76d0298a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\alipaySdk-20151215.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a06f7968d9f7fcc8f23e1757d30ff5d98fa838e4">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\alipaySdk-20151215-4b5526e628c80578e0d8727877c8774f47cff5a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48-313eac2352ccd88e1c2f84ceb3dc3a80a92fac70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\baidumapapi_v3_5_0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba79500bb64218f10b5fd0d5ea54503b2bf6b3bb">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_5_0-b8ad7d413a49519686e3314e98bbd5a3daa4cd2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3-a27dc50e4ad50508bbf04793b1484aab0343cc4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="115a743cc0da01ca8dee6e2f2e5d901ea68200bd">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2-53df1f36fecd6ebcf61f37690c76d9b25c1d6a3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\barcode_core.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cba0b93b0072105d808ef7a00a107a4eb97874e7">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\barcode_core-57d3f42f56659a64fcf004514c50e71677ca240c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\WebSocket.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6b17ba6ab787805a04640e7a80dece959634bf2b">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\WebSocket-4f2cfb719f221bbb64e8be361b1a4275680dd308.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="291877a10fd2a93a6fb8f3e7733fc7ba4d3acea0">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\SocialSDK_Sina-637f80d3f568850e7af091d4e4ccbb1f76d0298a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\fastjson-1.2.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a5c721e8ea1e18854272879d6ed2770d25feb342">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\fastjson-1.2.7-95bb09de8cf7211b4166d9d04223d92d6ec40cbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-1a88588d86205825a3225019b657d26fc4d4e22f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.5.0\bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a\okio-1.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\okio-1.5.0-d19a14371397c6eca4ede01fef02db4647f737c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\commons-lang3-3.4-52c90650d7bb867aa207ec002586e8ac4b0b4ee4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-07ba597dcf83570d3bdad961d988047a6dc0bc05.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\weiboSDKCore_3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c0bfcddc15de1e8a90ff166da0b9abe011346af">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\weiboSDKCore_3.1.2-cbeab5b7c8aa1a77c8e9b7b2d759d85e7a43663b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\fastjson-1.2.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a5c721e8ea1e18854272879d6ed2770d25feb342">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\fastjson-1.2.7-95bb09de8cf7211b4166d9d04223d92d6ec40cbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\SocialSDK_sms.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f2001935ba0bd2590ba55da54139bb855a75c00">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\SocialSDK_sms-3bc948413a37190fa0d11916e52859e7f01e6765.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\open_sdk_r5509.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="538ea8fb21ea76e8cb424598ac38127cb3344d79">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\open_sdk_r5509-a8cf85e9bc352d408bed92ba806d48ece96a2c09.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\classes-1aac4338b4abf355a19bacbf377a6fef7049d811.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="08f97ddd97b60fd290a24fa54861cf82a1586954">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3-5c3275ce2cd45243d851eaffa9ca37c07013c484.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\alipaySdk-20151215.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a06f7968d9f7fcc8f23e1757d30ff5d98fa838e4">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\alipaySdk-20151215-4b5526e628c80578e0d8727877c8774f47cff5a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\android-support-v4-a7dae3d46eff1e122d71bb2d57c05838241c33f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\okhttputils.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9bd1bb5ea9ee043fb215b54551f9fa86e56c415e">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\okhttputils-66e0e89e67c6f32bbe6d32dfe9663b55fa1482d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-1a88588d86205825a3225019b657d26fc4d4e22f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48-f3716ab9e45d46f3c837b85ca176cae3806578cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\socketio.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d574c3c4139a80890b722e017b5c3c80b6fa2706">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\socketio-2dfde4f22448367fe7ef9689b7ac457dc3e18135.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08f97ddd97b60fd290a24fa54861cf82a1586954">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3-5c3275ce2cd45243d851eaffa9ca37c07013c484.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-648ec5be6b10b8000ed45dbfc937713a23d29ce1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\trunk\app\libs\locSDK_5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="389047997db28fcb848dc4247c5590a08b7ff769">
+        <dex dex="C:\Users\Administrator\Desktop\trunk\app\build\intermediates\pre-dexed\debug\locSDK_5.2-4e42bcf61d9cc9414e10d02376c50b6c4364b801.jar" />
+    </item>
+
+</items>
