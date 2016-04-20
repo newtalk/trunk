@@ -156,16 +156,16 @@ public final class Constants {
     /**
      * 服务器域名
      */
-	public static final String HOST = "www.shopnctest.com";
+	public static final String HOST = "192.168.1.244";
 
     //WAPURL
-    public static final String WAP_URL = "http://www.shopnctest.com/wap/";
+    public static final String WAP_URL = "http://192.168.1.244/wap/";
     public static final String WAP_GOODS_URL = WAP_URL + "tmpl/product_detail.html?goods_id=";
 
     /**
      * IM服务器地址、端口号
      */
-    public static final String IM_HOST = PROTOCOL + "www.shopnctest.com:8090";
+    public static final String IM_HOST = PROTOCOL + "192.168.1.244";
 
     /**
      * 服务器端口号
